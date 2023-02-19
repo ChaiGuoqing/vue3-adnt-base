@@ -1,6 +1,6 @@
 <template>
   <div class="layout-logo">
-    <div class="title">OA管理平台</div>
+    <div class="title">管理平台</div>
   </div>
 </template>
 
